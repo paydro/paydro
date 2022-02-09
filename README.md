@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Peter. 
+
+I write at [tightlycoupled.io](https://tightlycoupled.io).
+
+I lurk on Twitter at [@paydro](https://twitter.com/paydro)
+
 <!--
 **paydro/paydro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
