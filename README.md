@@ -2,7 +2,7 @@
 
 My name is Peter. 
 
-I write at [tightlycoupled.io](https://tightlycoupled.io) and [pqbui.com](https://pqbui.com)
+I write stuff at [tightlycoupled.io](https://tightlycoupled.io) and [pqbui.com](https://pqbui.com)
 
 I lurk on Twitter at [@paydro](https://twitter.com/paydro)
 
